@@ -8,7 +8,4 @@
 echo "hello world!";
 phpinfo();
 echo "some silly code to show more commits";
-
-
-
 ?>
